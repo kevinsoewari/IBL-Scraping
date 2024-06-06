@@ -1,4 +1,4 @@
-name: scrape_ibl
+name: ibl_scrap
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     
 jobs:
-  hashtag-scrape:
+  ibl-scrape:
     runs-on: macOS-latest
     env:
       ATLAS_URL: ${{ secrets.ATLAS_URL }}
