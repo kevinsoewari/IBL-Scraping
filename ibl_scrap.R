@@ -89,6 +89,9 @@ data_ibl<-data.frame(nama_pemain,point_pemain,assist_pemain,rebound_pemain,strin
 view(data_ibl)
 
 
+pilih <- sample(1:40, 1, replace=FALSE)
+data_ibl <- data_ibl[pilih,]
+
 #MONGODB
 message('Input Data to MongoDB Atlas')
 atlas_conn <- mongo(
