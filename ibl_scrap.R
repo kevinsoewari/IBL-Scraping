@@ -4,6 +4,8 @@ library(tidyverse)
 library(mongolite)
 library(httr)
 
+message('Scraping Data')
+
 url_dewaunited<- "https://iblindonesia.com/profile/team/126042?season=37811"
 page_dewaunited <-read_html(url_dewaunited)
 
