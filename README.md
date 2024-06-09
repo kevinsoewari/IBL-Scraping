@@ -27,3 +27,13 @@
 [Pengembang](#man-Developer)
 
 </div>
+
+## ⛹️‍♂️: Introduction
+
+**Sekilas Tentang IBL**
+
+<p align="justify">
+IBL adalah singkatan dari "Indonesia Basketball League," yang merupakan liga bola basket profesional di Indonesia. Liga ini dikelola oleh Perbasi (Persatuan Bola Basket Seluruh Indonesia) dan bertujuan untuk mempromosikan dan mengembangkan olahraga bola basket di Indonesia.
+</p>
+
+
