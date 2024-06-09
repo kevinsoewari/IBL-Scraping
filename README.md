@@ -43,11 +43,11 @@ IBL adalah singkatan dari "Indonesia Basketball League," yang merupakan liga bol
 <div align="center">
 
 <p align="justify">
-Pada project kali ini, yaitu melakukan scraping pada website https://www.airlinequality.com/. Situs web ini dikenal dengan nama "Skytrax." Ini adalah platform yang menyediakan penilaian dan ulasan tentang maskapai penerbangan dan bandara di seluruh dunia. Skytrax dikenal karena memberikan informasi terperinci tentang pengalaman penumpang dan peringkat kualitas layanan maskapai dan bandara.
+Pada proyek kali ini, yaitu melakukan scraping pada situs web https://iblindonesia.com/. Situs web ini dikenal dengan nama "IBL Indonesia." Ini adalah platform yang menyediakan informasi dan berita terbaru tentang liga bola basket profesional di Indonesia. IBL Indonesia dikenal karena memberikan informasi terperinci tentang pertandingan, pemain, tim, dan peringkat dalam liga.
 </p>
 
 <p align="justify">
-Skytrax dianggap sebagai sumber tepercaya untuk evaluasi kualitas layanan dalam industri penerbangan, dan digunakan oleh penumpang serta profesional industri untuk membuat keputusan yang lebih baik terkait perjalanan udara.
+IBL Indonesia dianggap sebagai sumber tepercaya untuk evaluasi kualitas dan perkembangan dalam industri bola basket Indonesia, dan digunakan oleh penggemar serta profesional industri untuk membuat keputusan yang lebih baik terkait pertandingan, pemain, dan tim bola basket.
 </p>
 
 </div>
