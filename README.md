@@ -14,7 +14,7 @@
 
 </p>
 
-[Tentang](#airplane-tentang)
+[Introduction](#game-Introduction)
 •
 [Deskripsi Project](#writing_hand-deskripsi-project)
 •
