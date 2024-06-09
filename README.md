@@ -6,7 +6,6 @@
 
 
 # Indonesian Basketball League Scraping
-[![scrape_hashtag](https://github.com/kevinsoewari/IBL-Scraping/blob/main/.github/workflows/32px-Halal_Indonesia.svg.png)](https://github.com/kevinsoewari/IBL-Scraping/blob/main/.github/workflows/main.yml)
 
 <p align="center">
     
