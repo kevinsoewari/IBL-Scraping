@@ -28,7 +28,7 @@
 
 </div>
 
-## :⛹️‍♂️: Introduction
+## 🎮 Introduction
 
 **Sekilas Tentang IBL**
 
