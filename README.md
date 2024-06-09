@@ -37,6 +37,6 @@ IBL adalah singkatan dari "Indonesia Basketball League," yang merupakan liga bol
 </p>
 
 <p align="center">
-  <img width="220" height="150" src="[https://akcdn.detik.net.id/community/media/visual/2017/08/11/df72df27-3ba9-4494-b085-0a091b781c9f.jpg?w=700&q=90](https://www.google.com/search?q=ibl+pemain&sca_esv=3acb789c3fd461ab&udm=2&tbas=0&source=lnt&sa=X&ved=2ahUKEwjv04ez1s6GAxVgzDgGHdhpA5MQpwV6BAgDEA0&biw=1536&bih=730&dpr=1.25#vhid=xB87w3OTNJO53M&vssid=mosaic)">
+  <img width="300" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fiblindonesia.com%2Fnews%2Froster-ibl-2020-pelita-jaya-bakrie&psig=AOvVaw0N8y1C5RO4PIFTqAhw8284&ust=1718027804959000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDBurrWzoYDFQAAAAAdAAAAABAE">
 
 </p>
