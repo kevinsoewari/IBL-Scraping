@@ -4,7 +4,7 @@
 # Indonesian Basketball League Scarping
 <div align="center">
     
-[![scrape_hashtag](https://github.com/rizkyardhani/airlinequality_scraping/actions/workflows/main.yml/badge.svg)](https://github.com/rizkyardhani/airlinequality_scraping/actions/workflows/main.yml)
+[![scrape_hashtag](https://github.com/kevinsoewari/IBL-Scraping/blob/main/.github/workflows/main.yml/badge.svg)](https://github.com/kevinsoewari/IBL-Scraping/blob/main/.github/workflows/main.yml)
 
 <p align="center">
     
