@@ -1,10 +1,10 @@
 
+<div align="center">
 ![image](https://github.com/kevinsoewari/IBL-Scraping/assets/165129110/76b8c505-ffb7-4bc9-b551-2d295f28cc20)
 
 
-<div align="center">
 
-# Indonesian Basketball League Scarping
+# Indonesian Basketball League Scraping
 [![scrape_hashtag](https://github.com/kevinsoewari/IBL-Scraping/blob/main/.github/workflows/32px-Halal_Indonesia.svg.png)](https://github.com/kevinsoewari/IBL-Scraping/blob/main/.github/workflows/main.yml)
 
 <p align="center">
