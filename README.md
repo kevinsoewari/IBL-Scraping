@@ -43,7 +43,6 @@ IBL adalah singkatan dari "Indonesia Basketball League," yang merupakan liga bol
  ![image](https://github.com/kevinsoewari/IBL-Scraping/assets/165129110/17cc04f3-b00f-4956-96d3-dfd00b117f1a)
 
 </p>
-<div align="center">
 
 <p align="justify">
 Pada proyek kali ini, yaitu melakukan scraping pada situs web https://iblindonesia.com/. Situs web ini dikenal dengan nama "IBL Indonesia." Ini adalah platform yang menyediakan informasi dan berita terbaru tentang liga bola basket profesional di Indonesia. IBL Indonesia dikenal karena memberikan informasi terperinci tentang pertandingan, pemain, tim, dan peringkat dalam liga.
@@ -57,7 +56,7 @@ IBL Indonesia dianggap sebagai sumber tepercaya untuk evaluasi kualitas dan perk
 
 <p align="justify">
 Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
-  </p>
+ </p>
 
  <p align="justify">
       
