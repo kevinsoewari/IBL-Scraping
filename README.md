@@ -36,7 +36,34 @@
 IBL adalah singkatan dari "Indonesia Basketball League," yang merupakan liga bola basket profesional di Indonesia. Liga ini dikelola oleh Perbasi (Persatuan Bola Basket Seluruh Indonesia) dan bertujuan untuk mempromosikan dan mengembangkan olahraga bola basket di Indonesia.
 </p>
 
-<p align="center">
-  <img width="300" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fiblindonesia.com%2Fnews%2Froster-ibl-2020-pelita-jaya-bakrie&psig=AOvVaw0N8y1C5RO4PIFTqAhw8284&ust=1718027804959000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDBurrWzoYDFQAAAAAdAAAAABAE">
 
+## 📑 deskripsi-project
+
+<p align="center" width="80%">
+  <img width="700" height="400" src="https://allvectorlogo.com/img/2017/07/skytrax-logo.png">
 </p>
+
+<div align="center">
+
+<p align="justify">
+Pada project kali ini, yaitu melakukan scraping pada website https://www.airlinequality.com/. Situs web ini dikenal dengan nama "Skytrax." Ini adalah platform yang menyediakan penilaian dan ulasan tentang maskapai penerbangan dan bandara di seluruh dunia. Skytrax dikenal karena memberikan informasi terperinci tentang pengalaman penumpang dan peringkat kualitas layanan maskapai dan bandara.
+</p>
+
+<p align="justify">
+Skytrax dianggap sebagai sumber tepercaya untuk evaluasi kualitas layanan dalam industri penerbangan, dan digunakan oleh penumpang serta profesional industri untuk membuat keputusan yang lebih baik terkait perjalanan udara.
+</p>
+
+</div>
+
+<p align="justify">
+Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
+  </p>
+
+ <p align="justify">
+      
++ **airline ratings** meliputi kenyamanan kursi maskapai penerbangan, layanan staf kabin, hiburan dalam pesawat, katering di dalam pesawat, layanan bandara, dan harga tiket pesawat.
++ **lounge ratings** meliputi kenyamanan lounge, kebersihan, katering makanan, toilet, layanan staf, dll.
++ **seat ratings** meliputi ruang untuk kaki pada kursi, sandaran dan lebar kursi, kenyamanan, keempukan kursi, dll.
++ **airport ratings** meliputi kebersihan bandara, waktu tunggu, outlet/gerai pusat belanja, restoran/kafe, konektivitas wifi dan layanan staf.
+</p>
+
