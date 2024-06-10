@@ -77,3 +77,9 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk pemain IBL :
     "rebound_pemain":"189"
 }
 ```
+
+## :computer: PPT
+Berikut adalah link powerpoint yang memuat projek ini :
+
+## :panda_face: Pengembang
++ [Kevin_Alifviansyah](https://github.com/kevinsoewari/) (G1501231018)
