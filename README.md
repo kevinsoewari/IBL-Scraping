@@ -65,3 +65,9 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 + **Rebound Pemain** Rangkuman banyak rebound yang dicetak oleh pemain 
 </p>
 
+
+## :books: Dokumen
+Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
+```mongodb
+{"_id":{"$oid":"6663b9cb016e23532e016261"},"nama_pemain":"Lester Prosper","point_pemain":"325","assist_pemain":"30","rebound_pemain":"189"}
+```
