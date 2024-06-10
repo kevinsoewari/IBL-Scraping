@@ -60,8 +60,8 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 
  <p align="justify">
       
-+ **Point Pemain** meliputi kenyamanan kursi maskapai penerbangan, layanan staf kabin, hiburan dalam pesawat, katering di dalam pesawat, layanan bandara, dan harga tiket pesawat.
-+ **Assist Pemain** meliputi kenyamanan lounge, kebersihan, katering makanan, toilet, layanan staf, dll.
-+ **Rebound Pemain** meliputi ruang untuk kaki pada kursi, sandaran dan lebar kursi, kenyamanan, keempukan kursi, dll.
++ **Point Pemain** beberapa pemain yang mencetak point dari setiap team
++ **Assist Pemain** Rangkuman pemain yang mencetak assist dalam setiap pertandingan
++ **Rebound Pemain** Rangkuman banyak rebound yang dicetak oleh pemain 
 </p>
 
