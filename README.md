@@ -67,7 +67,7 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 
 
 ## :books: Dokumen
-Berikut adalah salah satu contoh dokumen di MongoDB untuk airline ratings :
+Berikut adalah salah satu contoh dokumen di MongoDB untuk pemain IBL :
 ```mongodb
 {
     "_id":{"$oid":"6663b9cb016e23532e016261"},
