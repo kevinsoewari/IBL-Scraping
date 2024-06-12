@@ -78,8 +78,15 @@ Berikut adalah salah satu contoh dokumen di MongoDB untuk pemain IBL :
 }
 ```
 
+## :bar_chart: Visualiasi Data Scraping
+Berikut merupakan link data visualisasi dari hasil scraping : 
++ [IBL(Indonesian Basket League) Data Scraping and Visualization](https://rpubs.com/alifviansyah/iblscraping)
+
+
 ## :computer: PPT
 Berikut adalah link powerpoint yang memuat projek ini :
+
+
 
 ## :panda_face: Pengembang
 + [Kevin_Alifviansyah](https://github.com/kevinsoewari/) (G1501231018)
