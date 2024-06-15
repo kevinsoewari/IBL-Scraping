@@ -13,7 +13,7 @@
 
 </p>
 
-[Introduction](#newspaper-Introduction)
+[Tentang](#newspaper-Tentang)
 •
 [Deskripsi Project](#open_book-Project)
 •
@@ -30,7 +30,7 @@
 
 </div>
 
-# 🎮 Introduction
+# :newspaper: Tentang
 
 **Sekilas Tentang IBL**
 
