@@ -85,6 +85,7 @@ Berikut merupakan link data visualisasi dari hasil scraping :
 
 ## :computer: PPT
 Berikut adalah link powerpoint yang memuat projek ini :
+(https://github.com/kevinsoewari/IBL-Scraping/blob/main/PPT-IBL-Scraping.pdf)
 
 
 
