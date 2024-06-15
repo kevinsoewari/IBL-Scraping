@@ -17,7 +17,7 @@
 •
 [Deskripsi Project](#open_book-Project)
 •
-[Dokument](#books-Dokument)
+[Dokumen](#books-Dokumen)
 •
 [Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
 •
@@ -67,7 +67,7 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 </p>
 
 
-# :books: Dokument
+# :books: Dokumen
 Berikut adalah salah satu contoh dokumen di MongoDB untuk pemain IBL :
 ```mongodb
 {
