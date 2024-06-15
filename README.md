@@ -13,7 +13,7 @@
 
 </p>
 
-[Introduction](#newspaper-Tentang)
+[Introduction](#newspaper-Introduction)
 •
 [Deskripsi Project](#open_book-Project)
 •
@@ -30,7 +30,7 @@
 
 </div>
 
-## 🎮 Introduction
+# 🎮 Introduction
 
 **Sekilas Tentang IBL**
 
@@ -39,7 +39,7 @@ IBL adalah singkatan dari "Indonesia Basketball League," yang merupakan liga bol
 </p>
 
 
-## 📑 Deskripsi Project
+# 📑 Deskripsi Project
 
 <div align="center">
     
@@ -86,11 +86,11 @@ Berikut merupakan link data visualisasi dari hasil scraping :
 + [IBL(Indonesian Basket League) Data Scraping and Visualization](https://rpubs.com/alifviansyah/iblscraping)
 
 
-## :computer: PPT
+# :computer: PPT
 Berikut adalah link powerpoint yang memuat projek ini :
 (https://github.com/kevinsoewari/IBL-Scraping/blob/main/PPT-IBL-Scraping.pdf)
 
 
 
-## :panda_face: Pengembang
+# :panda_face: Pengembang
 + [Kevin_Alifviansyah](https://github.com/kevinsoewari/) (G1501231018)
