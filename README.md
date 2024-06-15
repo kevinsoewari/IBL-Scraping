@@ -23,9 +23,7 @@
 •
 [PPT](#computer-PPT)
 •
-[Pengembang](#astronaut-Pengembang)
-•
-[Dokumentasi](#camera_flash-dokumentasi)
+[Pengembang](#panda_face-Pengembang)
 
 
 </div>
