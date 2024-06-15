@@ -13,17 +13,20 @@
 
 </p>
 
-[Introduction](#game-Introduction)
+[Introduction](#newspaper-Tentang)
 •
-[Deskripsi Project](#writing_hand-Deskripsi-Project)
+[Deskripsi Project](#open_book-Project)
 •
-[Dokumen](#books-dokumen)
+[Dokument](#books-Dokument)
 •
-[Visualisasi Data Scraping](#visualisasi-data-scraping)
+[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
 •
 [PPT](#computer-PPT)
 •
-[Pengembang](#man-Developer)
+[Pengembang](#astronaut-Pengembang)
+•
+[Dokumentasi](#camera_flash-dokumentasi)
+
 
 </div>
 
