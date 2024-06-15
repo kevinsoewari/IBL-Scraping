@@ -67,7 +67,7 @@ Dalam hal ini, data yang akan dilakukan scraping berkaitan dengan :
 </p>
 
 
-## :books: Dokumen
+# :books: Dokument
 Berikut adalah salah satu contoh dokumen di MongoDB untuk pemain IBL :
 ```mongodb
 {
