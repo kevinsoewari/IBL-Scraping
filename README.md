@@ -86,11 +86,11 @@ Berikut merupakan link data visualisasi dari hasil scraping :
 + [IBL(Indonesian Basket League) Data Scraping and Visualization](https://rpubs.com/alifviansyah/iblscraping)
 
 
-# :computer: PPT
+## :computer: PPT
 Berikut adalah link powerpoint yang memuat projek ini :
 (https://github.com/kevinsoewari/IBL-Scraping/blob/main/PPT-IBL-Scraping.pdf)
 
 
 
-# :panda_face: Pengembang
+## :panda_face: Pengembang
 + [Kevin_Alifviansyah](https://github.com/kevinsoewari/) (G1501231018)
